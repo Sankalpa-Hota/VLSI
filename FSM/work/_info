@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/coursera-Verilog/Verilog/week 4/RAM
+vAAC2M4P3_tb
+Z0 !s110 1594493009
+!i10b 1
+!s100 `^iQmJW9nEAmY@Cl5>XZ?0
+IfL35J1Pjb_fJUNz0:f2h:3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/coursera-Verilog/Verilog/week 4/FSM
+w1573399826
+8E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3_tb.vp
+FE:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3_tb.vp
+L0 65
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1594493009.000000
+!s107 E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3_tb.vp|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@a@c2@m4@p3_tb
+vFSM
+R0
+!i10b 1
+!s100 @h=52Y<bWFib2VD5:P<3c1
+IF]Vi11h4k<L3O3BI=X:lR3
+R1
+R2
+w1594493002
+8E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3.v
+FE:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3.v|
+!s101 -O0
+!i113 1
+R5
+n@f@s@m

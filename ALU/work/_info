@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/coursera-Verilog/Verilog/week 4/FSM
+vAAC2M4H1_tb
+!s110 1594493402
+!i10b 1
+!s100 8lTA?3TF@z?1cmdXkQH2[0
+IY@YRodlUSJ65OdBl0YYMi0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/coursera-Verilog/Verilog/week 4/ALU
+w1573400262
+8E:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1_tb.vp
+FE:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1_tb.vp
+L0 65
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z3 !s108 1594493401.000000
+!s107 E:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1_tb.vp|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@a@c2@m4@h1_tb
+vALU
+!s110 1594493401
+!i10b 1
+!s100 Z8U^i3_j_Wz1[DZm>KEEn2
+IZ2U>3UAdW@0WKbfFcofWh0
+R0
+R1
+w1594493340
+8E:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1.v
+FE:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 E:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/coursera-Verilog/Verilog/week 4/ALU/AAC2M4H1.v|
+!s101 -O0
+!i113 1
+R4
+n@a@l@u

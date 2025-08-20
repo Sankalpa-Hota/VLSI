@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/coursera-Verilog/Verilog/majority
+vAAC2M3H1_tb
+Z0 !s110 1594375608
+!i10b 1
+!s100 M7_=TF:5KHJ_kG<CV_S^A3
+I>DA0bTM9c3Y^CA]RIINkg1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/coursera-Verilog/Verilog/adder
+w1573398160
+8E:/coursera-Verilog/Verilog/adder/AAC2M3H1_tb.vp
+FE:/coursera-Verilog/Verilog/adder/AAC2M3H1_tb.vp
+L0 64
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1594375608.000000
+!s107 E:/coursera-Verilog/Verilog/adder/AAC2M3H1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/coursera-Verilog/Verilog/adder/AAC2M3H1_tb.vp|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@a@c2@m3@h1_tb
+vFullAdd4
+R0
+!i10b 1
+!s100 ikzCbU@QX2hf09k:16i?l1
+I;j0i`NjcNIYY0@4`T1B6T0
+R1
+R2
+w1594375600
+8E:/coursera-Verilog/Verilog/adder/AAC2M3H1.v
+FE:/coursera-Verilog/Verilog/adder/AAC2M3H1.v
+L0 39
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/coursera-Verilog/Verilog/adder/AAC2M3H1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/coursera-Verilog/Verilog/adder/AAC2M3H1.v|
+!s101 -O0
+!i113 1
+R5
+n@full@add4

@@ -1,0 +1,20 @@
+{E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3.v} {1 {vlog -work work -stats=none {E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} {E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3_tb.vp} {1 {vlog -work work -stats=none {E:/coursera-Verilog/Verilog/week 4/FSM/AAC2M4P3_tb.vp}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AAC2M4P3_tb
+
+Top level modules:
+	AAC2M4P3_tb
+
+} {} {}} {E:/coursera-Verilog/Verilog/week 4/FSM/vector.out} {0 {vlog -work work -stats=none {E:/coursera-Verilog/Verilog/week 4/FSM/vector.out}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+** Error: (vlog-13069) E:/coursera-Verilog/Verilog/week 4/FSM/vector.out(4): near "24": syntax error, unexpected INTEGER NUMBER, expecting class.
+
+
+} {3.0 4.0} {}}
